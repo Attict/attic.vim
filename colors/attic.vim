@@ -1,7 +1,7 @@
-" Name:    one vim colorscheme
-" Author:  Ramzi Akremi
+" Name:    attic vim colorscheme
+" Author:  Eric Wagner
 " License: MIT
-" Version: 1.1.1-pre
+" Version: 1.0.0-pre
 
 " Global setup =============================================================={{{
 
