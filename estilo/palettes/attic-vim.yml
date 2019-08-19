@@ -14,7 +14,7 @@ hue_5_2: '#be5046' # red 2
 hue_6: '#d19a66' # orange 1
 hue_6_2: '#e5c07b' # orange 2
 
-syntax_bg: '#282c34'
+syntax_bg: '#fffff4'
 syntax_gutter: '#636d83'
 syntax_cursor: '#2c323c'
 

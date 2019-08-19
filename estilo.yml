@@ -1,10 +1,10 @@
-name: 'vim-one'
+name: 'attic.vim'
 version: '1.0.0'
 license: 'MIT'
-author: 'Ramzi Akremi'
+author: 'Eric Wagner'
 url: ''
-description: 'Port to Vim of Atom One Dark and Light themes'
+description: 'Attic Colorscheme'
 colorschemes:
-  - name: one-dark
+  - name: attic
     background: 'dark'
-    palette: vim-one-dark
+    palette: attic
