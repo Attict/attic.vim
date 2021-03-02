@@ -308,7 +308,7 @@ if has('gui_running') || has('termguicolors') || &t_Co == 88 || &t_Co == 256
     let s:hue_6   = ['#d19a66', '173'] " orange 1
     let s:hue_6_2 = ['#e5c07b', '180'] " orange 2
 
-    let s:syntax_bg     = ['#191c29', '16']
+    let s:syntax_bg     = ['none', '16']
     let s:syntax_gutter = ['#636d83', '60']
     let s:syntax_cursor = ['#292c39', '16']
 
@@ -327,7 +327,7 @@ if has('gui_running') || has('termguicolors') || &t_Co == 88 || &t_Co == 256
     let s:hue_1  = ['#1da3a8', '31'] " cyan
     let s:hue_2  = ['#205faf', '33'] " blue
     let s:hue_3  = ['#8548a7', '127'] " purple
-    let s:hue_4  = ['#2ca537', '71'] " green
+    let s:hue_4  = ['#329f3c', '71'] " green
 
     let s:hue_5   = ['#e45649', '166'] " red 1
     let s:hue_5_2 = ['#ca1243', '160'] " red 2
@@ -335,14 +335,14 @@ if has('gui_running') || has('termguicolors') || &t_Co == 88 || &t_Co == 256
     let s:hue_6   = ['#986801', '94'] " orange 1
     let s:hue_6_2 = ['#c18401', '136'] " orange 2
 
-    let s:syntax_bg     = ['#f0f0f0', '255']
+    let s:syntax_bg     = ['#ebebeb', '255']
     let s:syntax_gutter = ['#9e9e9e', '247']
     let s:syntax_cursor = ['#e4e4e4', '254']
 
     let s:syntax_accent = ['#526fff', '63']
     let s:syntax_accent_2 = ['#0083be', '31']
 
-    let s:vertsplit    = ['#e7e9e1', '188']
+    let s:vertsplit    = ['#d0d0d0', '188']
     let s:special_grey = ['#d3d3d3', '251']
     let s:visual_grey  = ['#d0d0d0', '251']
     let s:pmenu        = ['#dfdfdf', '253']
